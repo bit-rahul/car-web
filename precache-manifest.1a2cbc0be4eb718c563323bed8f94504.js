@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a0a0803a90eb9136404395b64e5259a",
+    "revision": "1b6377209efd0f86544c97304b9fc36a",
     "url": "/car-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/car-web/static/css/2.ba3816ef.chunk.css"
   },
   {
-    "revision": "8727fa6074a255aa2d00",
+    "revision": "b632288b1ad1683987f5",
     "url": "/car-web/static/css/main.bc9edf36.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/car-web/static/js/2.f4241556.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8727fa6074a255aa2d00",
-    "url": "/car-web/static/js/main.9732c8d5.chunk.js"
+    "revision": "b632288b1ad1683987f5",
+    "url": "/car-web/static/js/main.9a97b7c7.chunk.js"
   },
   {
     "revision": "02af34caaeac11eac4ea",
