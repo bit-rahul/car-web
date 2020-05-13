@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/car-web/static/css/main.bc9edf36.chunk.css",
+    "main.js": "/car-web/static/js/main.9732c8d5.chunk.js",
+    "main.js.map": "/car-web/static/js/main.9732c8d5.chunk.js.map",
+    "runtime-main.js": "/car-web/static/js/runtime-main.a397080b.js",
+    "runtime-main.js.map": "/car-web/static/js/runtime-main.a397080b.js.map",
+    "static/css/2.ba3816ef.chunk.css": "/car-web/static/css/2.ba3816ef.chunk.css",
+    "static/js/2.f4241556.chunk.js": "/car-web/static/js/2.f4241556.chunk.js",
+    "static/js/2.f4241556.chunk.js.map": "/car-web/static/js/2.f4241556.chunk.js.map",
+    "index.html": "/car-web/index.html",
+    "precache-manifest.d3685fa18fddf032cef349c8a1a39b07.js": "/car-web/precache-manifest.d3685fa18fddf032cef349c8a1a39b07.js",
+    "service-worker.js": "/car-web/service-worker.js",
+    "static/css/2.ba3816ef.chunk.css.map": "/car-web/static/css/2.ba3816ef.chunk.css.map",
+    "static/css/main.bc9edf36.chunk.css.map": "/car-web/static/css/main.bc9edf36.chunk.css.map",
+    "static/js/2.f4241556.chunk.js.LICENSE.txt": "/car-web/static/js/2.f4241556.chunk.js.LICENSE.txt",
+    "static/media/bg1.JPG": "/car-web/static/media/bg1.95db07da.JPG",
+    "static/media/car.png": "/car-web/static/media/car.212504fa.png",
+    "static/media/demo.jpg": "/car-web/static/media/demo.6f89e41e.jpg",
+    "static/media/demo2.jpg": "/car-web/static/media/demo2.b39ac878.jpg",
+    "static/media/demo3.png": "/car-web/static/media/demo3.aebfaf1c.png",
+    "static/media/ford.JPG": "/car-web/static/media/ford.55f9885e.JPG",
+    "static/media/honda.JPG": "/car-web/static/media/honda.8b25a976.JPG",
+    "static/media/i10-1.jpg": "/car-web/static/media/i10-1.fccb8cb8.jpg",
+    "static/media/i10-2.jpg": "/car-web/static/media/i10-2.1030e054.jpg",
+    "static/media/i10-n.JPG": "/car-web/static/media/i10-n.5ab29dcc.JPG",
+    "static/media/i10.jpg": "/car-web/static/media/i10.9976878e.jpg",
+    "static/media/logo.PNG": "/car-web/static/media/logo.33d6e7ff.PNG",
+    "static/media/maruti.JPG": "/car-web/static/media/maruti.07713990.JPG",
+    "static/media/modalbg.JPG": "/car-web/static/media/modalbg.093222d0.JPG",
+    "static/media/react-bootstrap-carousel.css": "/car-web/static/media/react-bootstrap-carousel.f7448c04.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a397080b.js",
+    "static/css/2.ba3816ef.chunk.css",
+    "static/js/2.f4241556.chunk.js",
+    "static/css/main.bc9edf36.chunk.css",
+    "static/js/main.9732c8d5.chunk.js"
+  ]
+}
